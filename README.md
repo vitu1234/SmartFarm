@@ -28,4 +28,4 @@ Different crops require different environmental or weather conditions to grow pr
 1. [https://create.arduino.cc/projecthub/AhmedAzouz/rory-the-robot-plant-f7e74b?ref=tag&ref_id=plants&offset=0]
 2. [https://www.instructables.com/id/Automated-FARM-Arduino-fanlightswater-Pump/]
 3. [https://www.youtube.com/watch?v=2cjufbgOBYo&t=499s]
-4. Setting up [https://www.youtube.com/watch?v=4XEe0HY0j6k&t=194s
+4. Setting up https://www.youtube.com/watch?v=4XEe0HY0j6k&t=194s
