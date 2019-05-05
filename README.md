@@ -22,4 +22,10 @@ Different crops require different environmental or weather conditions to grow pr
 7. You're almost done setting Up
 8. Use the Following for reference to setup Channels,fields, reactors and apps on thingSpeak.com [thingspeak.com](https://thingspeak.com/channels/766328)
 9. Code for Matlab Analysis [https://thingspeak.com/apps/matlab_analyses/124838/edit](https://thingspeak.com/apps/matlab_analyses/124838/edit)
-10. final diagram and how it will work 
+10. final diagram and how it will work ![Set Up of system](https://electronicsforu.com/wp-contents/uploads/2017/02/172-4.jpg "Diagram")
+
+# Reference websites
+1. [https://create.arduino.cc/projecthub/AhmedAzouz/rory-the-robot-plant-f7e74b?ref=tag&ref_id=plants&offset=0]
+2. [https://www.instructables.com/id/Automated-FARM-Arduino-fanlightswater-Pump/]
+3. [https://www.youtube.com/watch?v=2cjufbgOBYo&t=499s]
+4. Setting up [https://www.youtube.com/watch?v=4XEe0HY0j6k&t=194s
