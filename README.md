@@ -23,6 +23,8 @@ Different crops require different environmental or weather conditions to grow pr
 8. Use the Following for reference to setup Channels,fields, reactors and apps on thingSpeak.com [thingspeak.com](https://thingspeak.com/channels/766328)
 9. Code for Matlab Analysis [https://thingspeak.com/apps/matlab_analyses/124838/edit](https://thingspeak.com/apps/matlab_analyses/124838/edit)
 10. final diagram and how it will work ![Set Up of system](https://electronicsforu.com/wp-contents/uploads/2017/02/172-4.jpg "Diagram")
+11. after set-up everything above, head to [ifttt.com](https://ifttt.com/my_applets) and create a webhooks applet and put the trigger url on thingSpeak server on ThingsHttp to send an email to the farmer once the conditions are meant. The email sent to farmer consists of instructions on how he/she can read the results from the system.
+12. The SmartFarm recomendation document can be found [here](http://bit.ly/2Jpk5ig)
 
 # Reference websites
 1. [https://create.arduino.cc/projecthub/AhmedAzouz/rory-the-robot-plant-f7e74b?ref=tag&ref_id=plants&offset=0]
