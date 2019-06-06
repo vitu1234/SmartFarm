@@ -14,7 +14,7 @@ Different crops require different environmental or weather conditions to grow pr
   * ESP8266-01 Wi-Fi Module
   * Soil Moisture Sensor V2
 2. Download Arduino Uno IDE [HERE](https://www.arduino.cc/en/Main/Software).
-3. set up the components as the Circuit Diagram below ![Set Up the ESP8266 module and DHT11](https://www.circuito.io/app?components=512,10167,11021,13322,13678 "Diagram")
+3. set up the components as the Circuit Diagram below ![Set Up the ESP8266 module and DHT11](https://iotdesignpro.com/sites/default/files/inline-images/Circuit-Diagram-for-IoT-based-Temperature-and-Humidity-Monitoring-on-Thingspeak-using-Arduino-and-ESP8266.png "Diagram")
 4. Connect the Moisture Sensor to A2 pin of the Arduino 
 5. Go to [thingspeak.com](https://www.thingspeak.com) and create a free account for cloud hosting of the data
 6. Create Channels and Fields on [thingspeak.com](https://thingspeak.com/channels) as below: ![Set Up the channels and fields](https://www.flex-iot.com/wp-content/uploads/2018/03/ThingSpeak2-500x219.jpg "Diagram")
@@ -31,3 +31,4 @@ Different crops require different environmental or weather conditions to grow pr
 2. [https://www.instructables.com/id/Automated-FARM-Arduino-fanlightswater-Pump/]
 3. [https://www.youtube.com/watch?v=2cjufbgOBYo&t=499s]
 4. Setting up https://www.youtube.com/watch?v=4XEe0HY0j6k&t=194s
+5. [https://www.circuito.io/app?components=512,10167,11021,13322,13678]
