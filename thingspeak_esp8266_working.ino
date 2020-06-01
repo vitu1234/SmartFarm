@@ -1,13 +1,5 @@
 
-/* Arduino+esp8266 thingSpeak example  
- * Example name = "Write temperature and humidity to Thingspeak channel"
- * Created by Ilias Lamprou
- * Updated Oct 30 2016
- * 
- * Download latest Virtuino android app from the link:https://play.google.com/store/apps/details?id=com.virtuino_automations.virtuino&hl
- * Video tutorial link: https://youtu.be/4XEe0HY0j6k
- * Contact address for questions or comments: iliaslampr@gmail.com
- */
+
 
 // Code to use SoftwareSerial
 #include <SoftwareSerial.h>
